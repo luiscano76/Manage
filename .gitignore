@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+build/
+.vite/
+
+# Entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Vercel
+.vercel
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.log
